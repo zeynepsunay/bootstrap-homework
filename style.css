@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(28, 106, 179, 0.116);
+}
+
+.card {
+    margin-left: 20px;
+    position: relative;
+    margin: auto;
+}
+
+.navbar{
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    z-index: 100;
+    
+    
+}
